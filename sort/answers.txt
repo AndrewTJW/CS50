@@ -1,0 +1,20 @@
+sort1 uses: bubble sort
+How do you know?:   #sort1 on random5000.txt = (0m0.102s)
+                    #sort1 on random10000.txt = (0m0.227s)
+                    #sort1 on random50000.txt = (0m5.652s)
+
+                    #sort1 on sorted50000.txt = (0m0.453s)
+
+
+sort2 uses: merge sort
+How do you know?:   #sort2 on random5000.txt = (0m0.032s)
+                    #sort2 on random10000.txt = (0m0.126s)
+                    #sort2 on random50000.txt = (0m0.422s)
+
+
+sort3 uses: selection sort
+How do you know?:   #sort3 on random5000.txt = (0m0.104s)
+                    #sort3 on random10000.txt = (0m0.172s)
+                    #sort3 on random50000.txt = (0m2.354s)
+
+                    #sort3 on sorted50000.txt = (0m2.345s)

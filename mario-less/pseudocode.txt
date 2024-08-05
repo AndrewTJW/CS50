@@ -1,0 +1,4 @@
+IDEA:
+prompt user for positive integer using ( while do loops )
+use ( for loops ) to build the bricks
+remember /n to create a new line so it has creates a new line of command
